@@ -1,0 +1,1716 @@
+   
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CIBIP Inter-Institutional Biomedical Innovation Programme</title> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+    <link rel="stylesheet" href="/css/animate.css">
+    
+    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/css/magnific-popup.css">
+
+    <link rel="stylesheet" href="/css/flaticon.css">
+    <link rel="stylesheet" href="/css/style.css?v=20"> 
+    <link rel="shortcut icon" href="/images/site-logo.png">  
+  </head>
+  <body>
+<style type="text/css">
+
+.navbar-brand img{
+width: 285px; 
+}
+
+@media (max-width: 576px) {
+
+.owl-carousel.home-slider {
+  position: relative;
+height: 207px;
+  z-index: 0;
+}
+#log_reg{
+  width: 50%; 
+}
+.block-7 .price .number {
+    font-size: 20px;
+
+}
+.block-7 {
+  padding: 20px;
+}
+    .navbar-brand img{
+    width: 200px;  
+    }
+
+    .owl-carousel.home-slider .slider-item .slider-text h1{
+
+    font-size: 15px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    }
+   .owl-carousel.home-slider .slider-item .slider-text h2 {
+    font-size: 12px;
+  }
+  .owl-carousel.home-slider{
+/*   height: 250px;*/
+  }
+  .owl-carousel.home-slider .slider-item {
+    height: 207px;
+    
+  }
+  .owl-carousel.home-slider .slider-item .slider-text {
+    height: 0px;
+  }
+  .owl-carousel.home-slider .owl-dots {
+   top: 206px;
+  }
+  #scrollnote{
+    margin-top: -120%;
+  }
+  #aboutus{
+    padding-top: 50px;
+  }
+  .btn{
+    padding: 8px 6px;
+    font-size: 8px;
+  }
+  .latest-news-section{
+    padding: 5px 0px;
+  }
+  .nt-item marquee{
+    font-size: 10px; 
+  }
+  .ftco-no-pt{
+    padding: 0em 0;
+  }
+  .ftco-faqs .img {
+    height: 54%;
+  }
+  .ftco-faqs .img-faqs {
+    height: 500px;
+  }
+  body{
+    font-size: 13px;
+  }
+  
+
+
+.col-lg-3{
+  width: 50%;
+}
+
+}
+@media (max-width: 320px) {
+
+#scrollnote{
+    margin-top: -142%;
+  }
+
+}
+ /*--------------------------------------------------------------
+# Clients
+--------------------------------------------------------------*/
+.clients {
+  padding: 15px 0;
+  text-align: center;
+}
+
+.clients img {
+  max-width: 60%;
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
+  padding: 15px 0;
+}
+
+.clients img:hover {
+  transform: scale(1.15);
+}
+
+@media (max-width: 768px) {
+  .clients img {
+    max-width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .home-slider .owl-carousel {
+    height: 200px;
+  }
+}
+
+</style>
+<style>
+  .btn-primary {
+    color: #fff;
+    background-color: #156082 !important;
+    border: 3px solid #000000 !important; /* Black border */
+    border-radius: 10px !important; /* Increase border radius */
+    font-size: 1.50rem;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.btn-primary:hover {
+    background-color: #ffffff !important; /* White background on hover */
+    color: #000000 !important; /* Optional: Change text color on hover for better contrast */
+}
+
+</style>
+<style>
+  .inactive-blur {
+    pointer-events: none;  
+    filter: blur(2px);     
+    opacity: 0.3;          
+  }
+</style>
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light sticky-top" id="ftco-navbar">
+	    <div class="container">
+        	    	<a class="navbar-brand" href="/index.php"><img src="/images/C-CAMP_LOGO.png" alt="logo"></a>
+        
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="fa fa-bars"></span> 
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav m-auto">
+	        	            
+               <li class="nav-item"><a href="/index.php" class="nav-link">Home</a></li>
+
+              <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#participating_institutions" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<i class="icofont-thin-down"></i></a>
+              <ul class="dropdown-menu" aria-labelledby="dropdown04">
+                 <li><a class="dropdown-item" href="/#about">About Us</a></li> 
+                <li><a class="dropdown-item" href="/resource_persons.php">Resource Persons</a></li>   
+              </ul>
+            </li>
+            <li class="nav-item"><a href="/#partners" class="nav-link" id="nav-services">Partners</a></li>
+            <li class="nav-item"><a href="/aicte_ibip.php?Institutions=aicte_ibip" class="nav-link" id="nav-services">AICTE – IBIP </a></li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#participating_institutions" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Participating Institutions <i class="icofont-thin-down"></i></a>
+              <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                <li><a class="dropdown-item" href="/yenepoya.php?Institutions=Yenepoya">Yenepoya</a></li>
+                <li><a class="dropdown-item" href="/bgs_giahs.php?Institutions=bgs_global">BGS</a></li>
+                <li><a class="dropdown-item" href="/st_johns_amrita.php?Institutions=St.johns_amrita">St.John/Amrita</a></li>
+                <li><a class="dropdown-item" href="/srm.php?Institutions=SRM">SRM</a></li>
+                <li><a class="dropdown-item" href="/ssahe_university.php?Institutions=SSAHE">Sri Sidhartha</a></li>
+                <li><a class="dropdown-item" href="/Dayananda_Sagar.php?Institutions=Dayananda_sagar">Dayananda Sagar</a></li>
+                <li><a class="dropdown-item" href="/adichunchanagiri.php?Institutions=Adichunchanagiri">Adichunchanagiri</a></li>
+              </ul>
+              </li>
+               <li class="nav-item"><a href="/#partners" class="nav-link" id="nav-services">Contact</a></li>
+            	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+<style>
+  .btn-primary {
+    color: #fff;
+    background-color: #156082 !important;
+    border: 3px solid #000000 !important; /* Black border */
+    border-radius: 10px !important; /* Increase border radius */
+    font-size: 1.75rem;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.btn-primary:hover {
+    background-color: #ffffff !important; /* White background on hover */
+    color: #000000 !important; /* Optional: Change text color on hover for better contrast */
+}
+
+
+</style>
+ <div class="hero-wrap">
+	    <div class="home-slider owl-carousel" style="height:700px;">
+	      <div class="slider-item" style="background-image:url(images/slider03.png);">
+	      	<div class="overlay"></div>
+	        <div class="container">
+	          <div class="row no-gutters slider-text align-items-center">
+		          <div class="col-md-8 ftco-animate">
+		          	<div class="text w-100">
+		          		
+			            <h1 class="mb-4">C-CAMP Inter-Institutional Biomedical Innovations Programme (CIBIP)</h1>
+			            <h2>Catalyzing Interspeciality<br/> Innovative Thinking,<br/> Primer to Bio-Entrepreneurship</h2>
+			            <p><a href="#participating_institutions" class="btn btn-white">Participating Institutions</a></p>
+		            </div>
+		          </div>
+		        </div>
+	        </div>
+	      </div>
+
+	    <div class="slider-item" style="background-image:url(images/slider01.png);" >
+	      	<div class="overlay"></div>
+	        <div class="container">
+	          <div class="row no-gutters slider-text align-items-center"> 
+		          <div class="col-md-8 ftco-animate">
+		          	<div class="text w-100">
+		          		
+			            <h1 class="mb-4">A Pilot Programme was held at Innovation Laboratory of Yenepoya Medical College.</h1>
+			            <h2>The Teams and their <br>problems defined are<br>illustrated here</h2>
+			            <p><a href="/piolet-program.php?Institutions=Yenepoya" class="btn btn-white">Pilot Program</a></p>
+		            </div>
+		          </div>
+		        </div>
+	        </div>
+	    </div>
+
+      <div class="slider-item" >
+        <img src="images/Banner-3.png" alt="" class="img-fluid">
+          <div class="overlay"></div>
+      </div>
+      <div class="slider-item" >
+        <img src="images/C-Camp-Banner-4.png" alt="" class="img-fluid">
+          <div class="overlay"></div>
+      </div>
+      <div class="slider-item" >
+        <img src="images/Banner-5.png" alt="" class="img-fluid">
+          <div class="overlay"></div>
+      </div>
+      <div class="slider-item" >
+        <img src="images/Banner-6.png" alt="" class="img-fluid">
+          <div class="overlay"></div>
+      </div>
+      <div class="slider-item" >
+        <img src="images/Banner-7.png" alt="" class="img-fluid">
+          <div class="overlay"></div>
+      </div>
+
+	    </div>
+	  </div>
+<section class="ftco-section ftco-no-pb ftco-no-pt" id="scrollnote">
+ <div class="latest-news-section">
+		<div class="news-ticker" style="width: 100%;">
+			<div class="news-ticker-contant">
+				<div class="nt-item"><marquee>Ideate.&nbsp;&nbsp;&nbsp;&nbsp;Innovate.&nbsp;&nbsp;&nbsp;&nbsp;Iterate.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Create</marquee></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- <section>
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-md-4">
+        <a class="btn btn-primary btn-block text-white" >Biomed</a>
+      </div>
+      <div class="col-md-4">
+        <a href="ai_ml.php" class="btn btn-primary btn-block" >AI / ML</a>
+
+      </div>
+      <div class="col-md-4">
+        <a href="pharma_innovations.php" class="btn btn-primary btn-block" >Pharma</a>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+<section class="ftco-section ftco-no-pt bg-light" id="about">
+    	<div class="container">
+    		<div class="row d-flex no-gutters">
+    			  <div class="col-md-5 d-none d-sm-block">
+    				<div class="home-slider owl-carousel p-5">
+				      <div class="slider-item rounded" style="background-image:url(images/ccamp-3-min.jpg);">
+				      </div>
+				      <div class="slider-item rounded" style="background-image:url(images/ccamp-2-min.jpg);">
+				      </div>
+				      <div class="slider-item rounded" style="background-image:url(images/ccamp-4-min.jpg);">
+				      </div>
+				      <div class="slider-item rounded" style="background-image:url(images/ccamp5-min.jpg);">
+				      </div>
+				      <div class="slider-item rounded" style="background-image:url(images/ccmap6-min.jpg);">
+			      </div>
+			    	</div>
+    			</div>
+    			<div class="col-md-7 pl-md-5 py-md-5" style="background-image:url(images/atmanirbhar-bharath.png);background-size: 100%;background-repeat: no-repeat;" id="aboutus">
+    				<div class="heading-section pl-md-4 pt-md-5">
+    					<span class="subheading">Welcome to CIBIP</span>
+	            		<h2 class="mb-4">About Us</h2>
+    				</div>
+    				<div class="services-2 w-100 d-flex">
+    					<div class="align-items-center justify-content-center"><img src="/images/arrow-right.png"></div>
+    					<div class="text pl-4">
+    						
+    						<p>India's effort to create an Atma Nirbhar Bharat derives its strength from a vibrant start up culture based on its intelligent, motivated workforce, backed by financial support from Government grants and Venture capital.</p>
+    					</div>
+    				</div>
+    				<div class="services-2 w-100 d-flex">
+    					<div class="align-items-center justify-content-center"><img src="/images/arrow-right.png"></div>
+    					<div class="text pl-4">
+    						
+    						<p>In the Health Sector, there are unrecognised challenges, such as lack of cross specialisation dialogue, which hampers efforts to form cohesive teams, and mature identification of problems and solutions to address that. </p>
+    					</div>
+    				</div>
+    				<div class="services-2 w-100 d-flex">
+    					<div class="align-items-center justify-content-center"><img src="/images/arrow-right.png"></div>
+    					<div class="text pl-4">
+    						
+    						<p>The ICMR DHR Policy document in February 2022 highlighted the need for concerted action in this field in India.
+    						</p>
+    					</div>
+    				</div>
+    				<div class="services-2 w-100 d-flex">
+    					<div class="align-items-center justify-content-center"><img src="/images/arrow-right.png"></div>
+    					<div class="text pl-4">
+    						
+    						<p>CCAMP Inter Institutional Biomedical Innovation Programme (CIBIP) seeks to set up a systematic method to address this in conjunction with Universities, Medical and Engineering Colleges in India.</p>
+    					</div>
+    				</div>
+	        </div>
+        </div>
+    	</div>
+    </section>
+
+
+
+<section class="ftco-section ftco-no-pt bg-light ftco-faqs">
+	<br/><br/>
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-lg-6 pl-lg-5">
+    				<div class="heading-section mb-5 mt-lg-0">
+    			
+	            			<h2 class="mb-3">Vision & Mission</h2>
+    				</div>
+    				<div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
+						  <div class="card">
+							    <div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
+							      <div class="card-body py-3 px-0">
+								      	<ol>
+								      		<li>To set up an inter-institutional, inter-speciality academic programme in the field of biomedical innovations & entrepreneurship.</li>
+
+								      		<li>To encourage inter-disciplinary dialogue between Medical, Dental, Engineering, Pharmacy, and Science students, and further other specialities such as the social sciences, humanities, art and design and management.</li>
+
+								      		<li>To promote seamless integration of the biomedical innovation process within the standard curriculum in Indian universities, encouraging cross-specialisation ideation.</li>
+
+								      		<li>To create a talent pool of trained manpower to ensure mature team members of all disciplines for bio innovation entrepreneurship in India.</li>
+								      		
+								      	</ol>
+								      </div>
+							    </div>
+						  </div>
+
+						
+						 
+
+						 
+						 
+					</div>
+	        	</div>
+	        	<div class="col-lg-6">
+    				<div class="img-faqs w-100">
+	    				<div class="img mb-4 mb-sm-0" style="background-image:url(images/section01.jpg);">
+	    				</div>
+	    				<div class="img img-2 mb-4 mb-sm-0" style="background-image:url(images/section02.jpg);">
+	    				</div>
+	    			</div>
+    			</div>
+        	</div>
+    	</div>
+</section>
+<section class="ftco-section testimony-section">
+    	<div class="overlay"></div>
+      <div class="container-fluid">
+        <div class="row justify-content-center pb-5">
+          <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
+
+            <h2>Program Flow</h2>
+          </div>
+        </div>
+        <div class="row ftco-animate">
+        
+        	<img src="/images/ff.jpg" class="w-100"> 
+        </div>
+      </div>
+</section>
+
+
+
+<section id="clients-logo-section" class="section-top d-none d-md-block d-lg-block d-lg-none">
+  <div class="container">
+        <div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h2>Our Partners</h2>
+          </div>
+        </div>
+    
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          
+          <img src="/images/logos/Biocon-Logo-Main_01.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Solis-logo-01.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/yenepoya-incubator_01.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/narayana-health.png" alt="" class="img-fluid">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          
+          <img src="/images/logos/teleradiology.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/cyclops_logo_TP_01.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/peptris-logo-white_01.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/krysp-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/atom-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/indx-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+
+        <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/bugwork-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+       <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Hiih-Innovations-logo_01.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/ahpi-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/karkinos-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+
+        <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/IISc-Logo_01.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+       <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/ventur-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+       <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/gestalt-logo.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 ">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Origin-IP-Solutions.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Trialguna.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Derbi.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Healthcare-Sector-skill-council.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/VCR-Park.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Nija-World.png" alt="" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="award-block text-center p-4 border mb-4">
+          <img src="/images/logos/Institute-of-inspiring-innovation.png" alt="" class="img-fluid">
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+<section id="clients-logo-section" class="section-top d-sm-block d-md-none">   
+  <div class="container">
+   			 <div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h2>Our Partners</h2>
+          </div>
+        </div>
+    
+    <div class="row"> 
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+           <img src="/images/logos/Biocon-Logo-Main_01.png" alt="" class="img-fluid" >
+      </div>
+      
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+          <img src="/images/logos/Solis-logo-01.png" alt="" class="img-fluid" >
+          </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+       
+          <img src="/images/logos/yenepoya-incubator_01.png" alt="" class="img-fluid" >
+        
+      </div>
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+          <img src="/images/logos/narayana-health.png" alt="" class="img-fluid" >
+          </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+        
+          <img src="/images/logos/teleradiology.jpg" alt="" class="img-fluid" >
+       
+      </div>
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;padding: ;">
+      
+          <img src="/images/logos/cyclops_logo_TP_01.png" alt="" class="img-fluid" >
+          </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+        
+          <img src="/images/logos/peptris-logo-white_01.png" alt="" class="img-fluid" >
+       
+      </div>
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+          <img src="/images/logos/krysp-logo.jpg" alt="" class="img-fluid" >
+          </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+       
+          <img src="/images/logos/atom-logo.jpg" alt="" class="img-fluid" >
+      
+      </div>
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+          <img src="/images/logos/indx-logo.jpg" alt="" class="img-fluid" >
+          </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+       
+          <img src="/images/logos/bugwork-logo.jpg" alt="" class="img-fluid" >
+       
+      </div>
+      <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+      
+          <img src="/images/logos/Hiih-Innovations-logo_01.jpg" alt="" class="img-fluid" >
+      </div>
+       <div class="col-lg-4 col-sm-6" style="width: 33.33%;padding: 15px;">
+           <img src="/images/logos/gestalt-logo.jpg" alt="" class="img-fluid" >
+     
+      </div>
+
+
+    
+     
+      <div class="col-lg-4 col-sm-6 "  style="width: 33.33%;padding: 15px;">
+     
+          <img src="/images/logos/ahpi-logo.jpg" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+
+       
+          <img src="/images/logos/karkinos-logo.jpg" alt="" class="img-fluid" >
+       
+      </div>
+
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+     
+          <img src="/images/logos/IISc-Logo_01.jpg" alt="" class="img-fluid" >
+
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/ventur-logo.jpg" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Origin-IP-Solutions.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Trialguna.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Derbi.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Healthcare-Sector-skill-council.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/VCR-Park.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Nija-World.png" alt="" class="img-fluid" >
+      </div>
+      <div class="col-lg-4 col-sm-6"  style="width: 33.33%;padding: 15px;">
+          <img src="/images/logos/Institute-of-inspiring-innovation.png" alt="" class="img-fluid" >
+      </div>
+     
+    </div>
+
+  </div>
+</section>
+
+    <section class="ftco-section testimony-section ftco-no-pt mt-5">
+      <div class="container">
+      	<ul class="nav nav-tabs" id="menu-filters">
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link active " data-toggle="tab" href="#sponsors" style="font-size: 1rem;">Sponsors</a>
+      		</li>
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link" data-toggle="tab" href="#patrons" style="font-size: 1rem;">Patrons</a>
+      		</li>
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link" data-toggle="tab" href="#advisors" style="font-size: 1rem;">Advisors</a>
+      		</li>
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link" data-toggle="tab" href="#resource" style="font-size: 1rem;">Resource Persons</a>
+      		</li>
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link" data-toggle="tab" href="#faculty" style="font-size: 1rem;">Faculty</a>
+      		</li>
+      		<li class="nav-item mr-2 mb-3" style="margin: 0px;border: 4px solid;border-radius: 6px;">
+      			<a class="nav-link" data-toggle="tab" href="#domain" style="font-size: 1rem;">Domain Experts</a>
+      		</li>
+      	</ul>
+
+      	<div class="tab-content mt-5">
+      		<div id="sponsors" class="tab-pane fade show active">
+      			<div class="row ftco-animate">
+      				<div class="col-md-6 mb-3">
+                <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.-Kiran-Mazumdar-Shaw.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. Kiran Mazumdar Shaw</b></p>
+                      <p class="card-text text-dark">Executive Chairperson, Biocon Ltd.</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr. Kiran Mazumdar-Shaw, is a healthcare visionary, a global influencer and a passionate philanthropist. She is a pioneering biotech entrepreneur in India and the founder of Biocon Limited. She is the recipient of two of India’s highest civilian honours, Padma Shri (1989) and Padma Bhushan (2005).</p>
+                    <div class="text-center">
+                      <a  class="btn btn-primary text-white" id="open-video-modal1"><span class="fa fa-video-camera">&nbsp;Video Message</span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.-Bhairavi-M-Shibulal.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Ms. Bhairavi M Shibulal</b></p>
+                    <p class="card-text text-dark">Founder & Director Solis Health</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Ms Bhairavi, the founder and director of Solis health and Sowparnika Healthcare. Her focus areas are oncology and wellness. She is a Healthcare investor and philanthropist.</p>
+                  </div>
+                </div>
+              </div>
+      			</div>
+      		</div>
+
+      		<div id="patrons" class="tab-pane fade">
+      			 <div class="row ftco-animate">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel ftco-owl">
+              <div class="item " style="height: 100%;">
+                <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/C-N-Ashwathnarayana-temp.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. CN Ashwath Narayan</b></p>
+                    <p class="card-text text-dark">Minister of IT & BT</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Minister of Electronics, Information Technology- Biotechnology, Science and Technology, Higher Education, Skill Development, Entrepreneurship and Livelihood in Government of Karnataka. Syndicate and Senate Member of Rajiv Gandhi University of Health Sciences Employees Association, Bangalore. He started Padmashree Charitable Trust and Shushrutha Group of Institutions.<br>&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item " style="height: 100%;">
+                <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.-Devi-Shetty-temp.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. Devi Shetty</b></p>
+                    <p class="card-text text-dark">Chairman & Executive Director, Narayana Health</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Indian Entrepreneur and cardiac surgeon who is the chairman and founder of Narayana Health, a chain of 21 medical centres in India. He has performed more than 16,000 heart operations. In 2004 he was awarded the Padma Shri, followed by the Padma Bhushan in 2012.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Arjun-Kalyanpur-temp.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. Arjun Kalyanpur</b></p>
+                    <p class="card-text text-dark">CEO, Tereadology Solutions</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Arjun Kalayanpur is the founder of the Telerad Foundation which provides high-quality teleradiology and telemedicine services Asia-wide. Dr Kalyanpur was named Modern Medicare’s Entrepreneur of the Year and in 2009, Express Healthcare Magazine recognised him as one of the 50 Pathfinders in Healthcare in India.<br>&nbsp;<br>&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/dr-alexander-thomas-new-temp.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. Alexander Thomas</b></p>
+                    <p class="card-text text-dark">President at Association of Healthcare Providers</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Thomas is a Founder-Member and President of the Healthcare providers of India and the Association of National Board Accredited Institutions and Consortium of Accredited Healthcare Organizations (CAHO). <br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp; <br>&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.-Taslimarif-Saiyed-temp.jpg"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. Taslimarif Saiyed</b></p>
+                    <p class="card-text text-dark">CEO of C-CAMP</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr. Taslimarif Saiyed is the CEO and Director of C-CAMP. He is a neuroscientist, a PhD from Max-Planck Institute for Brain Research, Germany with a postdoc from the University of California San Francisco (UCSF). He trained in management for Biotech and Innovation from QB3 at UC Santa Cruz, UC Berkeley and UC San Francisco and Wharton School of Management.</p>
+                    <div class="text-center">
+                      <a href="https://www.youtube.com/watch?v=binnkWBUceA" class="" target="_blank"><span class="fa fa-video-camera">&nbsp;Video Message</span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.-T-G-Sitharam.png"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Dr. T G Sitharam</b></p>
+                    <p class="card-text text-dark">Chairman, All India Council for Technical Education (AICTE)</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Prof. Sitharam, beyond academia, made substantial contributions to Civil Engineering. His leadership at IIT Guwahati, CIT Kokrajhar, and roles like Director and Chairman exemplify his commitment to advancing technical education. As Chairman of AICTE, he continues shaping India's technical education landscape.</p>
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Priyank-Mallikarjun-Kharge.png"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Priyank Mallikarjun Kharge</b></p>
+                    <p class="card-text text-dark">Minister for Social Welfare, IT & Tourism </p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Priyank Mallikarjun Kharge, a three-time MLA from Chittapur Constituency, Karnataka, serves as a Cabinet Minister. With a pragmatic approach, he's transformed Social Welfare, IT, and Tourism departments, implementing impactful reforms and empowering communities.</p>
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                  <div class="card shadow h-100 border-0 ">
+                  <div class="d-flex align-items-center">
+                    <img class="p-4 card-img-top rounded-circle" src="/images/teams/Ashish-Jain.png"  alt="..." style="width: 40%;">
+                    <div>
+                      <p class="card-title fw-bolder text-primary"><b>Ashish Jain </b></p>
+                    <p class="card-text text-dark">Chief Executive Officer of the Healthcare Sector Skill Council (HSSC)</p>
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <p class="text-dark" style="text-align:justify; hyphens: auto;">Heis the CEO of the Healthcare Sector Skill Council (HSSC), overseeing vocational education in allied healthcare. With 20 years of experience, he's led in manufacturing, represented 100 sectoral associations, and contributed to Government-Industry initiatives.</p>
+                    
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      		<div id="advisors" class="tab-pane fade">
+      			<div class="row ftco-animate">
+      				<div class="col-md-12">
+      					<div class="carousel-testimony owl-carousel ftco-owl align-items-stretch">
+      						<div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Payal-Picture_01-.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr Payal Keswarpu</b></p>
+                          <p class="card-text text-dark">Chief Medical Officer at DALRADA HEALTH USA</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Payal Keswarpu is a physician-entrepreneur, with expertise in driving healthcare product innovations and leading multi-talented teams across continents. Several publications and patents on a variety of biomedical and technological issues, for developing innovative solutions for user needs.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+      						</div>
+      						<div class="item ">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/dr-prasanth-reddy_01.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr Prashanth Reddy</b></p>
+                          <p class="card-text text-dark">Program Director healthcare -NSRCEL</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Prashanth is an ENT Consultant & Head of Department of ENT at BGS Gleneagles Global Hospital and Endoscopic skullbase surgeon at HCG, Bangalore He is a healthcare consultant and Program director at NSRCEL IIM-Bangalore.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+      						</div>
+      						<div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/us-vishal-rao-temp.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr. US Vishal Rao</b></p>
+                          <p class="card-text text-dark">Director H&N Oncology, HCG Cancer Center</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">He is an Oncosurgeon and a TEDx speaker and inventor of the Aum Voice Prosthesis a 1$ speaking device for throat cancer patients – an innovation that has been considered among the 100 global social innovations. He has more than 18 patents filed for his innovations on medical devices, drugs, techniques and theories. International advisor to World Health Organisation Tobacco Free Initiatives.</p>
+                      </div>
+                    </div>
+      						</div>
+      						<div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/Naveen-Nagar.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr Naveen Nagar</b></p>
+                          <p class="card-text text-dark">CEO of Solis Health</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Naveen is an ENT surgeon and management professional with over 25 years of experience in clinical and healthcare management. He has held a senior management position in a major Oncology Chain of Hospitals, and is a mentor for start-ups in the healthcare industry.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+      						</div>
+
+                  <div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr.Lakshmi-Jagannathan.png"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr.Lakshmi Jagannathan</b></p>
+                          <p class="card-text text-dark">CEO at DERBI Foundation</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">With over a decade in the not-for-profit sector, she excels in utilizing technology for scalable, impactful interventions. As a key figure in setting up the entrepreneurial ecosystem at Dayananda Sagar Institutions, she chairs the Startup Committee at Bangalore Chamber of Commerce and contributes to ISBA and TiE Bangalore.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Ramesh-Unnikrishnan.png"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr Ramesh Unnikrishnan</b></p>
+                          <p class="card-text text-dark">Advisor AICTE </p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">As Advisor of Approval Bureau at AICTE HQ in New Delhi, Dr. Ramesh Unnikrishnan oversees higher and technical education regulation in India. From Lecturer to regional leadership, his commitment shapes academic quality and standards.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+                  </div>
+
+      					</div>
+      				</div>
+      			</div>
+      		</div>
+
+      		<div id="resource" class="tab-pane fade">
+      			<div class="row ftco-animate">
+      				<div class="col-md-12">
+      					<div class="carousel-testimony owl-carousel ftco-owl align-items-stretch">
+      						<div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/ravi-img.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr. Ravi Nayar</b></p>
+                          <p class="card-text text-dark">Director, C-CAMP Inter-Institutional Biomedical Innovations Programme</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Dr Ravi Nayar is the program lead. He is an ENT surgeon from PGI Chandigarh with extensive academic and research experience in India and abroad. He is passionate about mentoring the next generation of biomedical innovators.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+      						</div>
+      						<div class="item ">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/Akanksha-wakhare_01.png"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Akanksha Wakhare</b></p>
+                          <p class="card-text text-dark">Program Manager at C-CAMP Inter-Institutional Biomedical Innovations Programme</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Akanksha graduated from the National Institute of Pharmaceutical Research and Education with an M.S. in Medical Devices. She finished her industrial project and internship in quality assurance for medical devices at Boston Scientific Pvt Ltd. She has worked as the COO of a startup called Iota Design & Innovations Lab Pvt Ltd., where she was responsible for commercializing diagnostic devices, determining product-market fit, and making pitches for new technologies.</p>
+                      </div>
+                    </div>
+      						</div>
+      						<div class="item">
+                    <div class="card shadow h-100 border-0 ">
+                      <div class="d-flex align-items-center">
+                        <img class="p-4 card-img-top rounded-circle" src="/images/teams/jagdish1-temp.jpg"  alt="..." style="width: 40%;">
+                        <div>
+                          <p class="card-title fw-bolder text-primary"><b>Dr. Jagdish Chaturvedi</b></p>
+                          <p class="card-text text-dark">ENT Surgeon, Medical Device Innovator, Author and Stand-up Comedian)</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p class="text-dark" style="text-align:justify; hyphens: auto;">Founder and Director of HiiiH Innovations Private Limited. He trained at St. John’s Medical College and Hospital, Bangalore was a Stanford-India Biodesign (SIB) Fellow and holds an MBA degree in Entrepreneurship and Hospital Management.<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                      </div>
+                    </div>
+      						</div>
+      					</div>
+      				</div>
+      			</div>
+      		</div>
+
+      		<div id="faculty" class="tab-pane fade">
+      			<div class="row mb-4 gy-4">
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/jagdish1-temp.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary text-primary"><b>Dr Jagdish Chaturvedi</b></p>
+                    <p class="card-text text-dark">Bio design Expert</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/Nitesh-Jangir.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Nitesh Jangir</b></p>
+                    <p class="card-text text-dark">Founder Coeo Labs</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/drvishalrao.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary text-primary"><b>Dr Vishal Rao</b></p>
+                    <p class="card-text text-dark">Dean HCG Hospital </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/Siraj-Dhannai.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Siraj Dhannai</b></p>
+                    <p class="card-text text-dark">Founder InnAccel</p>
+                  </div>
+                </div>
+              </div>
+
+
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Anurag-Mairal.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary text-primary"><b>Dr Anurag Miral</b></p>
+      							<p class="card-text text-dark">Stanford Biodesign</p>
+      						</div>
+      					</div>
+      				</div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Jonnathan-Pillai.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Dr Johnath Pillai</b></p>
+                    <p class="card-text text-dark">Orbees Medicine</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/Shaunak-Patel.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Shaunak Patel</b></p>
+                    <p class="card-text text-dark">COO InnAccel</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/Pooja-Kadambi.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Pooja Kadambi</b></p>
+                    <p class="card-text text-dark">R & D Head - Dozee</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/naveen.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Naveen Lakkur</b></p>
+                    <p class="card-text text-dark">CIO- Institute of Inspiring Innovations</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/bindu.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Bindu Sharma </b></p>
+                    <p class="card-text text-dark">CEO & Founder of Orgiin IP</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/shivakumar.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Shivakumar R</b></p>
+                    <p class="card-text text-dark">IP Head – C-CAMP</p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/karthick.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Dr Karthik Mahesh</b></p>
+                    <p class="card-text text-dark">MedTech – C-CAMP</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/meena.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Meena Dalal</b></p>
+                    <p class="card-text text-dark">Founder & CEO of Trialguna</p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="col-md-3 mb-3 text-center">
+                <div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+                  <img class="p-4 card-img-top rounded-circle" src="/images/teams/saroi.jpg"  alt="...">
+                  <div class="card-body">
+                    <p class="card-title fw-bolder text-primary"><b>Saroj Patri</b></p>
+                    <p class="card-text text-dark">Founder at P2 Advisor </p>
+                  </div>
+                </div>
+              </div>
+
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/nanjunda.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Nanjunda Palecande</b></p>
+      							<p class="card-text text-dark">Founder at Ninja Venture Impacts Ltd</p>
+      						</div>
+      					</div>
+      				</div>
+
+      			
+      			
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/anand.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Anand Padmanabhan</b></p>
+      							<p class="card-text text-dark">Founder at Witmer Health</p>
+      						</div>
+      					</div>
+      				</div>
+
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/chaithanya.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Chaitanya Nimkalaya</b></p>
+      							<p class="card-text text-dark">Value Addition – India</p>
+      						</div>
+      					</div>
+      				</div>
+      				
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/niranjan.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Niranjan Subbrao</b></p>
+      							<p class="card-text text-dark">Co-founder at Cyclops</p>
+      						</div>
+      					</div>
+      				</div>
+
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/lalith.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Lalith Kishore </b></p>
+      							<p class="card-text text-dark">COO – InDx C-CAMP</p>
+      						</div>
+      					</div>
+      				</div>
+      		
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Akanksha-wakhare_01.png"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Akanksha Wakhare</b></p>
+      							<p class="card-text text-dark">Program Manager - CIBIP</p>
+      						</div>
+      					</div>
+      				</div>
+      				
+      				
+      			</div>
+      		</div>
+
+      		<div id="domain" class="tab-pane fade">
+      			<div class="row mb-4 gy-4">
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Prashanth_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary text-primary"><b>Dr Prashanth</b></p>
+      							<p class="card-text text-dark">Dean of Research and Director at Somaiya Vidyavihar University</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Niranjan_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Dr. Niranjan Subbarao</b></p>
+      							<p class="card-text text-dark">CTO of Cyclops Medtech</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Mandar-Kulkarni_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Dr Mandar Kulkarni</b></p>
+      							<p class="card-text text-dark">VCR Onco Park</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Srinivas_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Dr Srinivas Dorasala</b></p>
+      							<p class="card-text text-dark">Co-founder Cyclops Medtech</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/srivats-bhardwaj.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Professor Dr. Srivats Bharadwaj</b></p>
+      							<p class="card-text text-dark">The founder and Mentor of “The league of the dentist”</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/lalith-kishore_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Lalith Kishore</b></p>
+      							<p class="card-text text-dark">COO of InDx at C-CAMP</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/kl-mukesh_01-1.png"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Dr K L Mukesh</b></p>
+      							<p class="card-text text-dark">Venture Partner, Unitus</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Bharat-Gera_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Bharat Gera</b></p>
+      							<p class="card-text text-dark">Founder, Human Centric Healthcare Ecosystem</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Ravi-Ananth_01.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Ravi Ananth</b></p>
+      							<p class="card-text text-dark">Director & Mentor of Kayess Square Consulting Private Limited</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Shantanu-Datta.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Santanu Datta</b></p>
+      							<p class="card-text text-dark">CSO , Bugworks</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Venkatasubramanian-Narayanan.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Venkatasubramanian Narayanan</b></p>
+      							<p class="card-text text-dark">CEO & Co-Founder of Peptris</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Anand-Khedkar.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Anand Khedkar</b></p>
+      							<p class="card-text text-dark">Director and Founder of Sekkei Bio Pvt Ltd</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Meena-Dalal.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Meena Dalal</b></p>
+      							<p class="card-text text-dark">Founder & CEO of Trialguna</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Divyashree-Hegde.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Divyashree Hegde</b></p>
+      							<p class="card-text text-dark">Senior Representative - India at Welsh Government</p>
+      						</div>
+      					</div>
+      				</div>
+      				<div class="col-md-3 mb-3 text-center">
+      					<div class="card shadow-lg h-100 border-0 " style="width: 100%;">
+      						<img class="p-4 card-img-top rounded-circle" src="/images/teams/Dr-Anjali-Kulkarni.jpg"  alt="...">
+      						<div class="card-body">
+      							<p class="card-title fw-bolder text-primary"><b>Dr Anjali Kulkarni</b></p>
+      							<p class="card-text text-dark">Vice President of Clinical Informatics at Karkinos Healthcare</p>
+      						</div>
+      					</div>
+      				</div>
+      			</div>
+      		</div>
+      	</div>
+      </div>
+</section>
+
+ <!-- ======= Institutions Section ======= -->
+    <section id="clients" class="clients section-bg">
+      <div class="container" data-aos="zoom-in">
+      	   <div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	
+            <h2>Participating Institutions</h2>
+          </div>
+        </div>
+        <div class="row pb-5">
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+           <a href="/yenepoya.php?Institutions=Yenepoya" target="_blank"><img src="/images/logos/yenepoya-img.jpg" class="w-100"></a>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+           	<a href="/bgs_giahs.php?Institutions=bgs_global" target="_blank"><img src="/images/logos/bgslogo.png" class="w-100" ></a>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+          <a href="/st_johns_amrita.php" target="_blank"><img src="/images/logos/st_amrta.png" class="w-100"></a>
+          </div>
+
+           <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+           	<a href="/srm.php?Institutions=SRM" target="_blank"><img src="/images/logos/SRM-Logo.jpg" class="w-100"></a>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+           	<a href="/ssahe_university.php?Institutions=SSAHE" target="_blank"><img src="/images/logos/Siddhartha.jpg" class="w-100"></a>
+          </div>
+
+           <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <a href="/Dayananda_Sagar.php?Institutions=Dayananda_sagar" target="_blank"><img src="/images/logos/DSU_logo.webp" class="w-100"></a>
+          </div>
+          
+           <div class="col-lg-4 col-md-4 col-6  align-items-center justify-content-center">
+            <a href="/adichunchanagiri.php?Institutions=Adichunchanagiri" target="_blank"><img src="/images/logos/Adichunchanagiri.png" class="w-100 img-fluid"></a>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+
+
+    <section class="ftco-section bg-light" id="contact">
+    	<div class="container">
+    		<div class="row justify-content-center">
+					<div class="col-md-12">
+						<div class="wrapper">
+							<div class="row no-gutters">
+								<div class="col-lg-8 col-md-7 order-md-last d-flex align-items-stretch">
+									<div class="contact-wrap w-100 p-md-5 p-4">
+										<h3 class="mb-4">Contact CIBIP</h3>
+										<div id="form-message-warning" class="mb-4"></div> 
+					      		<div id="form-message-success" class="mb-4">
+					          
+					      		</div>
+										<form method="POST" id="contactForm" name="" class="contactForm">
+											<div class="row">
+												<div class="col-md-6">
+													<div class="form-group">
+														<label class="label" for="name">Full Name</label>
+														<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+													</div>
+												</div>
+												<div class="col-md-6"> 
+													<div class="form-group">
+														<label class="label" for="email">Email Address</label>
+														<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="label" for="subject">Phone</label>
+														<input type="text" class="form-control" name="phone" id="phone" placeholder="Phone">
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="label" for="#">Message</label>
+														<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<input type="submit" value="Send Message" class="btn btn-primary">
+														<div class="submitting"></div>
+													</div>
+												</div>
+											</div>
+										</form>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-5 d-flex align-items-stretch">
+									<div class="info-wrap bg-primary w-100 p-md-5 p-4">
+										<h3>Let's get in touch</h3>
+										<p class="mb-4">We're open for any suggestion or just to have a chat</p>
+					        	<div class="dbox w-100 d-flex align-items-start">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-map-marker"></span>
+					        		</div>
+					        		<div class="text pl-3">
+						            <p><span>Address:</span> GKVK Campus, Bellary Road, Bangalore 560065, Karnataka, India.</p>
+						          </div>
+					          </div>
+					        	<div class="dbox w-100 d-flex align-items-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-phone"></span>
+					        		</div>
+					        		<div class="text pl-3">
+						            <p><span>Phone:</span> <a href="tel://+91 8067185100">+91 8067185100</a></p>
+						          </div>
+					          </div>
+					        	<div class="dbox w-100 d-flex align-items-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-paper-plane"></span>
+					        		</div>
+					        		<div class="text pl-3">
+						            <p><span>Email:</span> <a href="mailto:bioinnov@ccamp.res.in">bioinnov@ccamp.res.in</a></p>
+						          </div>
+					          </div>
+					        	<div class="dbox w-100 d-flex align-items-center">
+					        		<div class="icon d-flex align-items-center justify-content-center">
+					        			<span class="fa fa-globe"></span>
+					        		</div>
+					        		<div class="text pl-3">
+						            <p><span>Website</span> <a href="cibip.ccamp.res.in" target="_blank">cibip.ccamp.res.in</a></p>
+						          </div>
+					          </div>
+				          </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+    		<br/>
+    		<div class="row">
+
+          <div class="col-lg-12">
+          	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4123511973567!2d77.57602291485023!3d13.07303271618152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae18114267e45d%3A0x890b611fe312a373!2sCentre%20for%20Cellular%20and%20Molecular%20Platforms%20(C-CAMP)!5e0!3m2!1sen!2sin!4v1679480135394!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+
+        
+          </div>
+        </div>
+    	</div>
+    </section>
+<style type="text/css">
+ .card:hover {
+    background-color:#c1c1c1 ;
+  }
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 11;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Style the modal content */
+.modal-content {
+  display: block;
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 80%;
+  max-width: 800px;
+  margin-top: 10%;
+}
+
+/* Style the close button */
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 34px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+.circle {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background-color: #1ba12d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.circle img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+}
+
+.head-section {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.head-section h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  /*border-bottom: 4px solid #1ba12d;;
+  border-radius: 10px;*/
+  display: inline-block;
+/*  padding-bottom: 10px;*/
+  letter-spacing: 2px;
+  text-shadow: 1px 1px #EEE;
+}
+
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+<script type="text/javascript">
+    $(document).on('submit', '#contactForm', function (e) {
+    e.preventDefault();
+    console.log();
+     var additionalData = {
+        'university': 'Main' 
+    };
+    var formData = $(this).serialize() + '&' + $.param(additionalData);
+ 
+    $.ajax({
+        method: "POST",
+        url: "contact_code.php",  
+        data: formData,
+
+        success: function (data) {  
+          
+                  alert("Good Job! Thanks for submitting the form");
+                
+        } 
+    });
+    $("#contactForm")[0].reset(); 
+});
+</script> 
+  <footer class="footer">
+			<div class="container-fluid px-lg-5">
+				<div class="row">
+					<div class="col-md-12 py-5">
+						<div class="row">
+							<div class="col-md-12 mb-md-0 mb-4">
+								<h2 class="footer-heading" align="center">C-CAMP INTER INSTITUTIONAL BIOMEDICAL INNOVATIONS PROGRAMME</h2>
+								
+								<center><ul class="ftco-footer-social p-0">
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+		            </ul></center>
+							</div>
+							
+				
+							<div class="col-md-12">
+								<center><p class="copyright" style="color: gray;">
+					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved  <a href="https://ytincubator.com" target="_blank" style="color:#252525;">YTI</a></p></center>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
+			
+		</footer>
+  <style>
+    /* Style for scroll-to-top button */
+    #scroll-to-top {
+      display: none;
+      position: fixed;
+      right: 30px;
+      bottom: 30px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: #02adda; 
+      color: #fff;
+      text-align: center;
+      font-size: 30px;
+      line-height: 50px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+    #scroll-to-top:hover {
+      background-color: #555;
+    }
+  </style>
+  <div id="scroll-to-top"><span>&#8593;</span></div>
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="/js/popper.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/jquery.easing.1.3.js"></script>
+  <script src="/js/jquery.waypoints.min.js"></script>
+  <script src="/js/jquery.stellar.min.js"></script>
+  <script src="/js/jquery.animateNumber.min.js"></script>
+  <script src="/js/owl.carousel.min.js"></script>
+  <script src="/js/jquery.magnific-popup.min.js"></script>
+  <script src="/js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="/js/google-map.js"></script>
+  <script src="/js/main.js"></script>
+  <script>
+		$(window).scroll(function() {
+			if ($(this).scrollTop() > 100) {
+				$('#scroll-to-top').fadeIn();
+			} else {
+				$('#scroll-to-top').fadeOut();
+			}
+		});
+		$('#scroll-to-top').click(function() {
+			$('html, body').animate({
+				scrollTop: 0
+			}, 1000);
+			return false;
+		});
+	</script>
+  </body>
+</html>  
